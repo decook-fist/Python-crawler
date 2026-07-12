@@ -31,14 +31,14 @@
 
 1. PTT 社群爬蟲程式碼
  ℹ️ 初始化與參數設定
-   ![初始化](ptt_step1_init.png.png)
+   ![初始化](ptt_step1.png.png)
    
  ℹ️ 核心爬取與解析邏輯
-   ![爬取邏輯](ptt_step2_scrape.png.png)
-   ![爬取邏輯](ptt_step3_collect.png.png)
+   ![爬取邏輯](ptt_step2.png.png)
+   ![爬取邏輯](ptt_step3.png.png)
 
  ℹ️ 核心爬取與解析邏輯 
-   ![存檔邏輯](ptt_step4_save.png.png)
+   ![存檔邏輯](ptt_step4.png.png)
 
 
 
