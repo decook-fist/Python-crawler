@@ -31,36 +31,36 @@
 
 1. PTT 社群爬蟲程式碼
  ℹ️ 初始化與參數設定
-   ![初始化](ptt_step1_init.png)
+   ![初始化](ptt_step1_init.png.png)
    
  ℹ️ 核心爬取與解析邏輯
-   ![爬取邏輯](ptt_step2_scrape.png)
-   ![爬取邏輯](ptt_step3_collect.png)
+   ![爬取邏輯](ptt_step2_scrape.png.png)
+   ![爬取邏輯](ptt_step3_collect.png.png)
 
  ℹ️ 核心爬取與解析邏輯 
-   ![存檔邏輯](ptt_step4_save.png)
+   ![存檔邏輯](ptt_step4_save.png.png)
 
 
 
  2.Yahoo 新聞爬蟲執行結果  
   ℹ️ 初始化與參數設定
-   ![初始化](yahoo_step1.png)
+   ![初始化](yahoo_step1.png.png)
 
   ℹ️ 核心爬取與解析邏輯
-   ![爬取邏輯](yahoo_step2.png) 
+   ![爬取邏輯](yahoo_step2.png.png) 
 
    ℹ️ 核心爬取與解析邏輯 
-   ![存檔邏輯](yahoo_step3.png)
+   ![存檔邏輯](yahoo_step3.png.png)
 
 
 
  3. 自由時報爬蟲執行結果
   ℹ️ 初始化與參數設定
-   ![初始化](liberty_step1.png)
+   ![初始化](liberty_step1.png.png)
 
   ℹ️ 核心爬取與解析邏輯
-   ![爬取邏輯](liberty_step2.png) 
+   ![爬取邏輯](liberty_step2.png.png) 
 
    ℹ️ 核心爬取與解析邏輯 
-   ![存檔邏輯](liberty_step3.png)
+   ![存檔邏輯](liberty_step3.png.png)
    
