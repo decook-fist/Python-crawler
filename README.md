@@ -49,7 +49,7 @@ pip install openpyxl
    ![爬取邏輯](ptt_step2.png.png)
    ![爬取邏輯](ptt_step3.png.png)
 
- ℹ️ 核心爬取與解析邏輯 
+ ℹ️ 數據清理與結構化儲存
    ![存檔邏輯](ptt_step4.png.png)
 
 
@@ -62,7 +62,7 @@ pip install openpyxl
   ℹ️ 核心爬取與解析邏輯
    ![爬取邏輯](yahoo_step2.png.png) 
 
-   ℹ️ 核心爬取與解析邏輯 
+   ℹ️ 數據清理與結構化儲存
    ![存檔邏輯](yahoo_step3.png.png)
 
 
@@ -75,7 +75,7 @@ pip install openpyxl
   ℹ️ 核心爬取與解析邏輯
    ![爬取邏輯](liberty_step2.png.png) 
 
-   ℹ️ 核心爬取與解析邏輯 
+   ℹ️ 數據清理與結構化儲存
    ![存檔邏輯](liberty_step3.png.png)
    
 # 📝 設計心得:
