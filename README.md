@@ -3,6 +3,12 @@
 ## 📝 作品簡介
 本專案為一套自動化網路爬蟲系統，旨在針對主流網路社群與新聞媒體進行焦點監測。系統會自動針對「詐騙、個資、釣魚」等資安關鍵字進行跨平台搜集，並自動去重、清理資料，最終匯出為 Excel 報表以利數據分析。
 
+## 🛠 執行環境需求
+本專案於 Python 環境下開發，執行前請確保已安裝相關套件： pip install requests
+                                                     pip install beautifulsoup4
+                                                     pip install pandas
+                                                     pip install openpyxl
+
 本系統共包含三個核心爬蟲模組：
 1. **PTT 社群爬蟲**：抓取 PTT 看板文章之標題、人氣與發文日期。
 2. **Yahoo 新聞爬蟲**：監測科技時事與資安新聞趨勢。
